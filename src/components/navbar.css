@@ -1,0 +1,28 @@
+.navbar {
+   width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; 
+  background-image: url("https://wp-mktg.prod.getty1.net/istockcontentredesign/wp-content/uploads/sites/5/bfi_thumb/2021_iStock_LatestBGTrends_Hero.jpg-37hacs394rfnlye6q17b1otbsizghpa9fhni65z6lb6gploak.jpeg");
+
+}
+
+.links {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 20px;
+  font-size: 25px;
+}
+.links a:hover {
+  
+  color: brown;
+  font-weight: bolder;
+}
+
